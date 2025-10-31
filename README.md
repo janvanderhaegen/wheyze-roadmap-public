@@ -1,18 +1,5 @@
 # Wheyze Project Hub
-
-# 🧭 Wheyze Project Hub
-
-## 🏁 Project Overview
-
-**Name:** Wheyze — Smart Taste Reviews for Protein Powders
-
-**Mission:** Help people find protein powders that *actually taste good* using community data and taste intelligence.
-
-**Team:** You + AI support
-
-**Stage:** MVP Development (Solo + Low Budget)
-
----
+  
 
 ## 📊 Progress Overview
 
