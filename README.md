@@ -22,21 +22,14 @@
 - Set up technical base and affiliate programs
 
 **Checklist**
-- [ ] Register LLC
-
-- [ ] Buy domains (wheyze.com, etc.)
-
+- [X] Register LLC
+- [X] Buy domains (wheyze.com, etc.)
 - [ ] Create Peazy placeholder (subdomain or separate page)
-
 - [ ] Set up affiliate accounts (Amazon, iHerb, Awin)
-
 - [ ] Write Terms of Service + Privacy Policy
-
 - [ ] Configure analytics (Plausible / GA)
-
-- [ ] GitHub repo initialized
-
-- [ ] Brand kit (fonts, palette, logo)
+- [X] GitHub repo initialized
+- [X] Brand kit (fonts, palette, logo)
 
 ---
 
@@ -49,28 +42,18 @@
 
 **Checklist**
 - [ ] Tech stack
-
 - [ ] Basic product database (≈50 items)
-
 - [ ] Review form (emoji sliders + 1–5 rating)
-
 - [ ] AI-generated product photos
-
 - [ ] Taste Index calculation
-
 - [ ] Error handling & notification
-
 - [ ] Product page + list view
-
-- [ ] 
-
+- [ ] Feedback/help/report bug
 - [ ] Deploy private beta (Vercel or similar)
-
 - [ ] Scraping & filling database: powders
-
 - [ ] Scraping & filling database: reviews
-
-- [ ] 
+- [ ] Review & track activity
+- [ ] Logging
 
 ## ⚙️ Phase 1 — MVP Launch
 
@@ -83,18 +66,12 @@
 
 **Checklist**
 - [ ] Affiliate buttons (region-aware)
-
 - [ ] Product page + list view
-
 - [ ] “Top flavors this month” and other auto-feeds
-
 - [ ] Deploy public beta (Vercel or similar) - keep dev & prod closed
-
 - [ ] Legal & Compliance
 - [ ] Stats: overview dashboard?
-
 - [ ] Entity mutation tracability/history
-
 - [ ] Moderation, task lists, 
 
 ---
@@ -111,25 +88,15 @@
 **Checklist**
 
 - [ ] 
-
 - [ ] Reddit, Discord, awareness posts
-
 - [ ] Blogs
-
 - [ ] Tools
-
 - [ ] Recipes
-
 - [ ] Reddit, Instagram, Facebook bots
-
 - [ ] Add review moderation tools
-
 - [ ] Build regional affiliate mapping
-
 - [ ] 500 total reviews
-
 - [ ] 1000 monthly unique visitors
-
 - [ ] Growth dashboard
 
 ---
@@ -145,23 +112,14 @@
 
 **Checklist**
 - [ ] Migrate to scalable DB
-
 - [ ] CDN + rate limiting
-
 - [ ] Add API with attribution & affiliate data
-
 - [ ] Formalize data ownership clause
-
 - [ ] Outreach to supplement brands for sponsorship
-
 - [ ] Explore “Taste Data for LLMs” licensing
-
 - [ ] API partner programs
-
 - [ ] Affiliate partner programs
-
-- [ ] Public dashboard: monthly and yearly stats. 
-
+- [ ] Public dashboard: monthly and yearly stats
 - [ ] Wheyze awards
 
 ## 🚀🚀🚀 Phase 4 — Marketing
