@@ -66,6 +66,7 @@
 
 **Checklist**
 - [ ] Affiliate buttons (region-aware)
+- [ ] Thrid party tested?
 - [ ] Product page + list view
 - [ ] “Top flavors this month” and other auto-feeds
 - [ ] Deploy public beta (Vercel or similar) - keep dev & prod closed
